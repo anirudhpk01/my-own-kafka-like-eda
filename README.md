@@ -19,6 +19,17 @@ A lightweight, Kafka-inspired event-driven architecture built for local developm
 
 
 
+## Screenshots of working
+
+![image](https://github.com/user-attachments/assets/4d4ed615-f57e-47ba-8356-59410b4069a1)
+![image](https://github.com/user-attachments/assets/e8ed98ab-95a1-4423-963f-a81a35be66e4)
+![image](https://github.com/user-attachments/assets/1c2e49da-cc1b-4d2b-924c-4287687ec220)
+
+
+
+
+
+
 ### Core Components
 
 1. **Producer Service** (`index.js`): HTTP server exposing REST endpoints for event production and subscription management
