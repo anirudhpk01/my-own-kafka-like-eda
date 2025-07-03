@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Anirudh P K",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "express": "^5.1.0",
+    "fs-extra": "^11.3.0",
+    "path": "^0.12.7",
+    "redis": "^5.5.6",
+    "ws": "^8.18.3"
+  }
 }
