@@ -24,6 +24,9 @@ A lightweight, Kafka-inspired event-driven architecture built for local developm
 ![image](https://github.com/user-attachments/assets/4d4ed615-f57e-47ba-8356-59410b4069a1)
 ![image](https://github.com/user-attachments/assets/e8ed98ab-95a1-4423-963f-a81a35be66e4)
 ![image](https://github.com/user-attachments/assets/1c2e49da-cc1b-4d2b-924c-4287687ec220)
+<img width="1076" height="596" alt="image" src="https://github.com/user-attachments/assets/8cbc0eb8-d016-4c0d-a500-8769b362ce5e" />
+
+
 
 
 
